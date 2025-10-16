@@ -22,3 +22,9 @@ input {
 button {
   @apply block mx-auto mt-8 font-bold hover:opacity-80 cursor-pointer;
 }
+label {
+  @apply block mb-2 text-sm font-medium;
+}
+a {
+  @apply text-white/80 hover:opacity-80 cursor-pointer ml-2;
+}
